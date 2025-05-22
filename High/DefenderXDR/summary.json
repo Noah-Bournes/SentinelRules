@@ -1,0 +1,23 @@
+﻿{
+    "ClientName":  "High-DefenderXDR",
+    "TotalRules":  22,
+    "RulesBySeverity":  {
+                            "High":  22
+                        },
+    "RulesByTactic":  {
+                          "Exfiltration":  2,
+                          "Collection":  1,
+                          "DefenseEvasion":  7,
+                          "Execution":  6,
+                          "Impact":  3,
+                          "Discovery":  1,
+                          "Persistence":  6,
+                          "CommandAndControl":  1,
+                          "InitialAccess":  2,
+                          "LateralMovement":  2,
+                          "CredentialAccess":  3
+                      },
+    "ExportDate":  "2025-05-22 09:56:39",
+    "EnabledRules":  22,
+    "DisabledRules":  0
+}
